@@ -1,0 +1,61 @@
+body {
+  background-image: url(images/background.png);
+}
+
+.header{
+  background: orange;
+  color: white;
+  width: 400px;
+  margin: 10px 0 10px 0;
+  font-size: 40px;
+  padding: 25px 0;
+  text-align: center;
+}
+.content{
+  background: tan;
+  color: green;
+  width: 400px;
+  padding-bottom: 100px;
+
+}
+
+#number{
+  font-size: 20px;
+  background: lightgreen;
+  color: purple;
+  width: 200px;
+  margin: 10px 0 10px 0;
+  padding: 15px;
+
+}
+
+#winLoss{
+  background: lightblue;
+  width: 200px;
+  padding: 15px;
+}
+
+#crystalBox{
+  width: 400px;
+}
+
+.crystals{
+  width: 400px;
+  margin: 10px 0 10px 0;
+}
+
+#userTotal{
+  background: darkgreen;
+  width: 380px;
+  margin: 0 0 10px 0;
+  padding: 10px;
+  color: white;
+}
+
+#userScore{
+  background: darkgreen;
+  width: 400px;
+  padding-bottom: 100px;
+  font-size: 40px;
+  color: white;
+}
